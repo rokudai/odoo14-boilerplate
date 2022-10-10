@@ -3,6 +3,5 @@ postgresql/
 etc/addons/
 etc/sessions/
 etc/filestore/
-addons/webinar_todo
 
 .env
